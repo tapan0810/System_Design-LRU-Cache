@@ -199,9 +199,3 @@ LRU_Cache/
 ## 👨‍💻 Author
 
 **Tapan Ray**
-
-GitHub: https://github.com/tapan0810
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-Happy Coding! 🚀
