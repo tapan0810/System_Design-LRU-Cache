@@ -12,6 +12,7 @@ public:
                 value = v;
                 prev = NULL;
                 next = NULL;
+
             }
     };
 
